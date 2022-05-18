@@ -5,9 +5,11 @@ public class HelloUniverse {
 		System.out.println("Hi");
 		System.out.println("Are u angree");
 		System.out.println("Are u angree");
-		System.out.print("Hello Dear, You are my best friend");
-		System.out.print("Hello Dear2, You are my best friend2");
-		System.out.print("Hello Dear3, You are my best friend2");
+		System.out.println("Hello Dear, You are my best friend");
+		System.out.println("Hello Dear2, You are my best friend2");
+		System.out.println("Hello Dear3, You are my best friend2");
+		System.out.println("Hello Dear4, You are my best friend4");
+		
 		
 	}
 
