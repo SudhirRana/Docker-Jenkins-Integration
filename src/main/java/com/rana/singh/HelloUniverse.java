@@ -6,6 +6,8 @@ public class HelloUniverse {
 		System.out.println("Are u angree");
 		System.out.println("Are u angree");
 		System.out.println("Hello Dear, You are my best friend");
+		System.out.println("Are u angree");
+		System.out.println("Hello Dear, You are my best friend");
 		
 		
 	}
